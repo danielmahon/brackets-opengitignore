@@ -1,12 +1,12 @@
 {
-    "name": "danielmahon.opengitignore",
-    "title": "Open .gitignore",
-    "description": "This extension will try to find and open the .gitignore file which Brackets hides by default.",
-    "homepage": "https://github.com/danielmahon/brackets-opengitignore",
-    "version": "0.0.1",
-    "author": "Daniel Mahon <daniel@mahonstudios.com>",
-    "license": "MIT",
-    "engines": {
-        "brackets": ">=0.20.0"
-    }
+  "name": "danielmahon.opengitignore",
+  "title": "Open .gitignore",
+  "description": "This extension will try to find and open the .gitignore file which Brackets hides by default.",
+  "homepage": "https://github.com/danielmahon/brackets-opengitignore",
+  "version": "0.0.2",
+  "author": "Daniel Mahon <daniel@mahonstudios.com>",
+  "license": "MIT",
+  "engines": {
+    "brackets": ">=0.20.0"
+  }
 }
