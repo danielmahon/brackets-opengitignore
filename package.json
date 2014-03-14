@@ -1,0 +1,12 @@
+{
+    "name": "danielmahon.opengitignore",
+    "title": "Open .gitignore",
+    "description": "This extension will try to find and open the .gitignore file which Brackets hides by default.",
+    "homepage": "", // URL for your project
+    "version": "0.0.1",
+    "author": "Daniel Mahon <daniel@mahonstudios.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.20.0"
+    }
+}
